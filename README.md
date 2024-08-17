@@ -1,4 +1,4 @@
-# Módulo 5 Intriducción a BDD SQL - PostgreSQL (Desafío 1)
+# Módulo 5 Intriducción BDD SQL - PostgreSQL (Desafío 1)
 
 <br/>
 
